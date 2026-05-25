@@ -1,0 +1,29 @@
+/* CSS styling for odin recipes */
+
+body {
+    background-color: beige;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+h1 {
+    text-align: center;
+    font-weight: bolder;
+}
+
+.recipes {
+    color: red;
+}
+
+.lasagna {
+    color: brown;
+}
+
+.cafe-miel {
+    color: blueviolet;
+}
+
+.old-fashioned {
+    font-size: 25px;
+
+}
